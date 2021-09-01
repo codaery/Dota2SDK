@@ -1,4 +1,4 @@
-an internal base for make hacks on dota2, written in c++                                                                                                                            
+an internal base paste for make hacks on dota2, written in c++                                                                                                                            
 language: ![c++](https://github.com/carterjwasd/dota2_cheat/blob/main/c%2B%2B.jpg)
 
 ```cpp
